@@ -17,3 +17,5 @@
 3. `npm run serve`
 
 更多参考 [vue-typescript-admin-template](https://github.com/armour/vue-typescript-admin-template)
+
+[X] 使用OpenId Connect 服务，从vue客户端登陆
