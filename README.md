@@ -19,4 +19,4 @@
 更多参考 [vue-typescript-admin-template](https://github.com/armour/vue-typescript-admin-template)
 
 - [x] 使用OpenId Connect 服务，从vue客户端登陆
-- [] 尝试Blazor
+- [ ] 尝试Blazor
