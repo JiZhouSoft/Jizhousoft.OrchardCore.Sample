@@ -1,0 +1,83 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\SourceCodes\\hyzx86\\OC\\Jizhousoft.OrchardCore.Sample\\src\\Jizhousoft.OrchardCore.Sample\\Jizhousoft.OrchardCore.Sample.csproj": {}
+  },
+  "projects": {
+    "D:\\SourceCodes\\hyzx86\\OC\\Jizhousoft.OrchardCore.Sample\\src\\Jizhousoft.OrchardCore.Sample\\Jizhousoft.OrchardCore.Sample.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\SourceCodes\\hyzx86\\OC\\Jizhousoft.OrchardCore.Sample\\src\\Jizhousoft.OrchardCore.Sample\\Jizhousoft.OrchardCore.Sample.csproj",
+        "projectName": "Jizhousoft.OrchardCore.Sample",
+        "projectPath": "D:\\SourceCodes\\hyzx86\\OC\\Jizhousoft.OrchardCore.Sample\\src\\Jizhousoft.OrchardCore.Sample\\Jizhousoft.OrchardCore.Sample.csproj",
+        "packagesPath": "E:\\.nuget\\packages",
+        "outputPath": "D:\\SourceCodes\\hyzx86\\OC\\Jizhousoft.OrchardCore.Sample\\src\\Jizhousoft.OrchardCore.Sample\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hyzx8\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.cloudsmith.io/orchardcore/preview/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "OrchardCore.Application.Cms.Targets": {
+              "target": "Package",
+              "version": "[1.0.0-rc2-13618, )"
+            },
+            "OrchardCore.Logging.NLog": {
+              "target": "Package",
+              "version": "[1.0.0-rc2-13618, )"
+            },
+            "ThisNetWorks.OrchardCore.OpenApi": {
+              "target": "Package",
+              "version": "[1.0.0-beta-139506876, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs/Jizhousoft.OrchardCore.Sample/v16
+/.vs/Jizhousoft.OrchardCore.Sample/config/applicationhost.config
+/.vs/Jizhousoft.OrchardCore.Sample/config
+/src/Jizhousoft.OrchardCore.Sample/App_Data/logs
