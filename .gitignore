@@ -2,7 +2,8 @@
 # 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
 ################################################################################
 
-/.vs/Jizhousoft.OrchardCore.Sample/v16
-/.vs/Jizhousoft.OrchardCore.Sample/config/applicationhost.config
-/.vs/Jizhousoft.OrchardCore.Sample/config
-/src/Jizhousoft.OrchardCore.Sample/App_Data/logs
+/.vs
+/src/Jizhousoft.OrchardCore.Sample/App_Data/logs 
+obj/
+bin/
+/src/Jizhousoft.OrchardCore.Sample/obj/Debug/netcoreapp3.1

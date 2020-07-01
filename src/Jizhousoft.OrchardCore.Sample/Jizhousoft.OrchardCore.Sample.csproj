@@ -18,4 +18,8 @@
     <PackageReference Include="ThisNetWorks.OrchardCore.OpenApi" Version="1.0.0-beta-139506876" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Jizhousoft.BlazorWasm\Server\Jizhousoft.BlazorWasm.Server.csproj" />
+  </ItemGroup>
+
 </Project>

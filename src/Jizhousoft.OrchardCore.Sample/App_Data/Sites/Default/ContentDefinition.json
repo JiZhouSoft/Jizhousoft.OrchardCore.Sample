@@ -1156,7 +1156,7 @@
             },
             "ContentIndexSettings": {},
             "TaxonomyFieldSettings": {
-              "TaxonomyContentItemId": "49vb8kz7aywbjy7xwc9509e35z"
+              "TaxonomyContentItemId": "4gr5py5rfq30rtdzd5wcpj5e49"
             },
             "TaxonomyFieldTagsEditorSettings": {}
           }
@@ -1171,7 +1171,7 @@
             },
             "ContentIndexSettings": {},
             "TaxonomyFieldSettings": {
-              "TaxonomyContentItemId": "4x31hbr4617dts86g2qjgjh3n1",
+              "TaxonomyContentItemId": "4zbtgx4veajf8vj664s1vwcvwq",
               "Unique": true,
               "LeavesOnly": true
             }
@@ -1427,5 +1427,5 @@
       "ContentPartFieldDefinitionRecords": []
     }
   ],
-  "Serial": 111
+  "Serial": 133
 }
