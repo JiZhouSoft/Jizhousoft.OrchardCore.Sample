@@ -1,12 +1,12 @@
 const convert2FormData = (data: any): string => {
-  let ret = ''
+  let formDatas = []
   for (let it in data) {
     // eslint-disable-next-line no-prototype-builtins
     if (data.hasOwnProperty(it)) {
-      ret += encodeURIComponent(it) + '=' + encodeURIComponent(data[it]) + '&'
+      formDatas.push(encodeURIComponent(it) + '=' + encodeURIComponent(data[it]))
     }
   }
-  return ret
+  return formDatas.join('&')
 }
 
 export {
